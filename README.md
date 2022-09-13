@@ -11,6 +11,9 @@ Gianluca Bontempi3,
 Jon Ustarroz1,2 
 
 1ChemSIN – Chemistry of Surfaces, Interfaces and Nanomaterials, Université libre de Bruxelles (ULB), Brussels, Belgium 
+
 2Research Group Electrochemical and Surface Engineering (SURF), Vrije Universiteit Brussel, Brussels, Belgium
+
 3Machine Learning Group (MLG), Université libre de Bruxelles (ULB), Brussels, Belgium
+
 *leonardo.bertolucci.coelho@ulb.be 
