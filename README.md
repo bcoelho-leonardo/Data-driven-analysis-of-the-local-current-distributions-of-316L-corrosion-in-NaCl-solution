@@ -1,4 +1,4 @@
-# Data-driven-analysis-of-the-local-current-distributions-of-316L-corrosion-in-NaCl-solution
+# Data-driven-analysis-of-the-local-current-distributions-of-316L-stainless-steel-corrosion-in-NaCl-solution
 
 This Python 3.7 code written in Jupyter Notebook reproduces the findings of the following scientific article: 
 
