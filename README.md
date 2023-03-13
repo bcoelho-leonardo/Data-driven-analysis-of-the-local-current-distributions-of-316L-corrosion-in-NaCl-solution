@@ -1,8 +1,8 @@
 # Data-driven-analysis-of-the-local-current-distributions-of-316L-stainless-steel-corrosion-in-NaCl-solution
 
-This Python 3.7 code written in Jupyter Notebook reproduces the findings of the following scientific article: 
+This Python 3.7 code written in Jupyter Notebook reproduces the findings of the following scientific article, accepted for publication in Corrosion Science journal on 10 March 2023: 
 
-"Data-driven analysis of the local current distributions of 316L stainless steel corrosion in NaCl solution"
+"Probing the randomness of the local current distributions of 316L stainless steel corrosion in NaCl solution"
 
 Leonardo Bertolucci Coelho1,2,*, 
 Daniel Torres1, Miguel Bernal1, 
